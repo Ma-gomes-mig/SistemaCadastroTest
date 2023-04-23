@@ -1,0 +1,16 @@
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\bin\Debug\SistemaCadastro.Domain.exe.config
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\bin\Debug\SistemaCadastro.Domain.exe
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\bin\Debug\SistemaCadastro.Domain.pdb
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\obj\Debug\SistemaCadastro.Domain.csproj.AssemblyReference.cache
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\obj\Debug\SistemaCadastro.Domain.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\obj\Debug\MainWindow.g.cs
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\obj\Debug\App.g.cs
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\obj\Debug\SistemaCadastro.Domain_MarkupCompile.cache
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\obj\Debug\SistemaCadastro.Domain_MarkupCompile.lref
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\obj\Debug\MainWindow.baml
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\obj\Debug\SistemaCadastro.Domain.g.resources
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\obj\Debug\SistemaCadastro.Domain.Properties.Resources.resources
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\obj\Debug\SistemaCadastro.Domain.csproj.GenerateResource.cache
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\obj\Debug\SistemaCadastro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\obj\Debug\SistemaCadastro.Domain.exe
+C:\Users\Matheus\source\repos\SistemaCadastro.Domain\SistemaCadastro.Domain\obj\Debug\SistemaCadastro.Domain.pdb
